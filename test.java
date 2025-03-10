@@ -51,7 +51,7 @@ public class Test {
                 System.out.println("Erreur : " + e.getMessage());
             }
 
-            System.out.println(); // Pour une meilleure lisibilité
+            System.out.println();
         }
 
         scanner.close();
